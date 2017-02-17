@@ -1,0 +1,230 @@
+# depslib dependency file v1.0
+1483453139 source:c:\users\casa\dropbox\rotinas\novoteste\geop1.2\calcgeop.c
+	<math.h>
+	<stdio.h>
+	"calcgeop.h"
+	"geomlipsref.h"
+
+1482595225 ef.h"
+
+1483452579 c:\users\casa\dropbox\rotinas\novoteste\geop1.2\calcgeop.h
+
+1481969758 c:\users\casa\dropbox\rotinas\novoteste\geop1.2\geomlipsref.h
+
+1482595225 source:c:\users\casa\dropbox\rotinas\novoteste\geop1.2\geomlipsref.c
+	<math.h>
+	<stdio.h>
+	"geomlipsref.h"
+
+1482593693 source:c:\users\casa\dropbox\rotinas\novoteste\geop1.2\legrendref.c
+
+1481541677 source:c:\users\casa\dropbox\rotinas\novoteste\geop1.2\leiturarq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leiturarq.h"
+
+1481541677 .h"
+
+1481541726 c:\users\casa\dropbox\rotinas\novoteste\geop1.2\leiturarq.h
+
+1483452569 source:c:\users\casa\dropbox\rotinas\novoteste\geop1.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leiturarq.h"
+	"geomlipsref.h"
+	"calcgeop.h"
+
+1483452569 h"
+
+1485650816 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.2/geomlipsref.c
+	<math.h>
+	<stdio.h>
+	"geomlipsref.h"
+
+1481969758 /home/clara/Dropbox/Rotinas/novoteste/Geop1.2/geomlipsref.h
+
+1484683091 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.2/legrendref.c
+	<math.h>
+	<stdio.h>
+	"legendref.h"
+
+1481541677 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.2/leiturarq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leiturarq.h"
+
+1481541726 /home/clara/Dropbox/Rotinas/novoteste/Geop1.2/leiturarq.h
+
+1485652919 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leiturarq.h"
+	"geomlipsref.h"
+	"calcgeop.h"
+	"calcgeoidh.h"
+
+1484682946 /home/clara/Dropbox/Rotinas/novoteste/Geop1.2/calcgeop.h
+
+1485652200 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.2/calcgeop.c
+	<math.h>
+	<stdio.h>
+	"calcgeop.h"
+
+1485651688 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.2/calcgeoidh.c
+	<math.h>
+	<stdio.h>
+	"calcgeoidh.h"
+
+1481974276 /home/clara/Dropbox/Rotinas/novoteste/Geop1.2/legendref.h
+
+1485651688 /home/clara/Dropbox/Rotinas/novoteste/Geop1.2/calcgeoidh.h
+
+1485716547 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.3/calcgeop.c
+	<stdio.h>
+	<math.h>
+	"calcgeop.h"
+
+1484682946 /home/clara/Dropbox/Rotinas/novoteste/Geop1.3/calcgeop.h
+
+1485713322 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.3/geomlipsref.c
+	<stdio.h>
+	<math.h>
+	"geomlipsref.h"
+
+1485702317 /home/clara/Dropbox/Rotinas/novoteste/Geop1.3/geomlipsref.h
+
+1485837638 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.3/legrendref.c
+	<math.h>
+	<stdio.h>
+	"legendref.h"
+
+1485837638 /home/clara/Dropbox/Rotinas/novoteste/Geop1.3/legendref.h
+
+1481541677 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.3/leiturarq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leiturarq.h"
+
+1481541726 /home/clara/Dropbox/Rotinas/novoteste/Geop1.3/leiturarq.h
+
+1485837676 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"leiturarq.h"
+	"geomlipsref.h"
+	"calcgeop.h"
+	"calcgeoidh.h"
+	"legendref.h"
+
+1485736393 /home/clara/Dropbox/Rotinas/novoteste/Geop1.3/calcgeoidh.h
+
+1485776205 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.3/calcgeoidh.c
+	<math.h>
+	<stdio.h>
+	"calcgeoidh.h"
+
+1485716547 source:/home/clara/PIBIC/Geop1.3/calcgeop.c
+	<stdio.h>
+	<math.h>
+	"calcgeop.h"
+
+1484682946 /home/clara/PIBIC/Geop1.3/calcgeop.h
+
+1486559660 source:/home/clara/PIBIC/Geop1.3/geomlipsref.c
+	<stdio.h>
+	<math.h>
+	"geomlipsref.h"
+
+1485702317 /home/clara/PIBIC/Geop1.3/geomlipsref.h
+
+1486729505 source:/home/clara/PIBIC/Geop1.3/legrendref.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"legendref.h"
+
+1486728416 /home/clara/PIBIC/Geop1.3/legendref.h
+
+1481541677 source:/home/clara/PIBIC/Geop1.3/leiturarq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leiturarq.h"
+
+1481541726 /home/clara/PIBIC/Geop1.3/leiturarq.h
+
+1486560607 source:/home/clara/PIBIC/Geop1.3/calcgeoidh.c
+	<math.h>
+	<stdio.h>
+	"calcgeoidh.h"
+	"geomlipsref.h"
+
+1486557539 /home/clara/PIBIC/Geop1.3/calcgeoidh.h
+
+1486729176 source:/home/clara/PIBIC/Geop1.3/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"leiturarq.h"
+	"geomlipsref.h"
+	"calcgeop.h"
+	"calcgeoidh.h"
+	"legendref.h"
+
+1486560607 source:/home/clara/PIBIC/Geop1.3.1/calcgeoidh.c
+	<math.h>
+	<stdio.h>
+	"calcgeoidh.h"
+	"geomlipsref.h"
+
+1486557539 /home/clara/PIBIC/Geop1.3.1/calcgeoidh.h
+
+1485702317 /home/clara/PIBIC/Geop1.3.1/geomlipsref.h
+
+1485716547 source:/home/clara/PIBIC/Geop1.3.1/calcgeop.c
+	<stdio.h>
+	<math.h>
+	"calcgeop.h"
+
+1484682946 /home/clara/PIBIC/Geop1.3.1/calcgeop.h
+
+1486559660 source:/home/clara/PIBIC/Geop1.3.1/geomlipsref.c
+	<stdio.h>
+	<math.h>
+	"geomlipsref.h"
+
+1481541677 source:/home/clara/PIBIC/Geop1.3.1/leiturarq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leiturarq.h"
+
+1481541726 /home/clara/PIBIC/Geop1.3.1/leiturarq.h
+
+1487165113 source:/home/clara/PIBIC/Geop1.3.1/legrendref.c
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"legendref.h"
+
+1487164198 /home/clara/PIBIC/Geop1.3.1/legendref.h
+
+1487164862 source:/home/clara/PIBIC/Geop1.3.1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"leiturarq.h"
+	"geomlipsref.h"
+	"calcgeop.h"
+	"calcgeoidh.h"
+	"legendref.h"
+

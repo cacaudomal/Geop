@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1481474908 source:/home/clara/Dropbox/Rotinas/novoteste/Geop/calcgeop.c
+	<math.h>
+	<stdio.h>
+	"calcgeop.h"
+
+1481474746 /home/clara/Dropbox/Rotinas/novoteste/Geop/calcgeop.h
+
+1481472685 source:/home/clara/Dropbox/Rotinas/novoteste/Geop/leiturarq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leiturarq.h"
+
+1478518280 /home/clara/Dropbox/Rotinas/novoteste/Geop/leiturarq.h
+
+1476711660 source:/home/clara/Dropbox/Rotinas/novoteste/Geop/LerGeop2-2.C
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leiturarq.h"
+
+1483453139 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.2/calcgeop.c
+	<math.h>
+	<stdio.h>
+	"calcgeop.h"
+	"geomlipsref.h"
+
+1483452579 /home/clara/Dropbox/Rotinas/novoteste/Geop1.2/calcgeop.h
+
+1481541677 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.2/leiturarq.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leiturarq.h"
+
+1481541726 /home/clara/Dropbox/Rotinas/novoteste/Geop1.2/leiturarq.h
+
+1482595225 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.2/geomlipsref.c
+	<math.h>
+	<stdio.h>
+	"geomlipsref.h"
+
+1481969758 /home/clara/Dropbox/Rotinas/novoteste/Geop1.2/geomlipsref.h
+
+1483452569 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"leiturarq.h"
+	"geomlipsref.h"
+	"calcgeop.h"
+
+1482593693 source:/home/clara/Dropbox/Rotinas/novoteste/Geop1.2/legrendref.c
+
